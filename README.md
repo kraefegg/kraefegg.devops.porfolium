@@ -91,4 +91,4 @@ Environmental & Energy Engineer
 Technical Advisor | ESG | Digital Engineering
 
 LinkedIn:
-[Add LinkedIn URL]
+[Add LinkedIn URL]https://www.linkedin.com/in/railsonarruda-engineering/
